@@ -332,6 +332,10 @@ def main():
     save_output("多仓订阅.json", {"urls": individual})
     log("多仓订阅:共 {} 个可用源".format(len(individual)))
 
+    # 额外输出 ASCII 文件名的副本,避免部分设备对中文文件名的编码问题
+    save_output("config.json", merged)
+    save_output("multi.json", {"urls": individual})
+
     # 状态与徽章
     success = sum(1 for r in results if r["status"] == "success")
     status = {
