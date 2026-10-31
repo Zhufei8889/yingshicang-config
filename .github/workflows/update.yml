@@ -42,3 +42,17 @@ jobs:
             git commit -m "chore: auto update configs $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             git push
           fi
+
+      - name: Push to Gitee mirror
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
+          if [ -z "$GITEE_TOKEN" ]; then
+            echo "GITEE_TOKEN 未配置,跳过 Gitee 同步"
+            exit 0
+          fi
+          git remote remove gitee 2>/dev/null || true
+          git remote add gitee "https://zhufei1989:${GITEE_TOKEN}@gitee.com/zhufei1989/yingshicang-config.git"
+          git push gitee main --force
+          git remote remove gitee
+          echo "已同步到 Gitee"
