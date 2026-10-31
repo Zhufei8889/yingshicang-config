@@ -8,7 +8,7 @@
     {
       "id": "wangerxiao",
       "name": "王二小",
-      "urls": ["https://d.kstore.dev/download/9280/wex.json"]
+      "urls": ["https://d.kstore.dev/download/9280/wex.json", "http://tvbox.王二小放牛娃.top"]
     },
     {
       "id": "laoliubei",
@@ -43,7 +43,7 @@
     {
       "id": "fantaiying",
       "name": "饭太硬",
-      "urls": ["http://www.饭太硬.net/tv", "http://饭太硬.top/tv"]
+      "urls": ["http://www.饭太硬.net/tv", "http://饭太硬.top/tv", "http://饭太硬.com/tv"]
     },
     {
       "id": "moyuer",
@@ -54,6 +54,54 @@
       "id": "yingcang",
       "name": "影仓",
       "urls": ["http://124.71.19.220/c/1"]
+    },
+    {
+      "id": "gaotianliuyun",
+      "name": "高天流云",
+      "urls": [
+        "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+        "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+      ]
+    },
+    {
+      "id": "okjack",
+      "name": "OK线路",
+      "urls": ["https://gitee.com/okjack/okk/raw/master/op.txt"]
+    },
+    {
+      "id": "meowtv",
+      "name": "喵影视",
+      "urls": ["http://meowtv.top/tv"]
+    },
+    {
+      "id": "qiaojia",
+      "name": "巧技",
+      "urls": ["http://pandown.pro/tvbox/tvbox.json"]
+    },
+    {
+      "id": "dxawi0",
+      "name": "dxawi0",
+      "urls": ["https://xhdwc.tk/0", "https://dxawi.github.io/0/0.json"]
+    },
+    {
+      "id": "xiangyaqing",
+      "name": "香雅情",
+      "urls": ["https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"]
+    },
+    {
+      "id": "baohe",
+      "name": "宝盒VIP",
+      "urls": ["https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"]
+    },
+    {
+      "id": "daozhang",
+      "name": "道长",
+      "urls": ["https://pastebin.com/raw/5NHaxyGR"]
+    },
+    {
+      "id": "youhun",
+      "name": "游魂多仓",
+      "urls": ["https://www.iyouhun.com/tv/dc", "https://www.iyouhun.com/tv/yh"]
     }
   ]
 }
