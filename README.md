@@ -19,7 +19,7 @@
 ## 二、源可用性状态
 
 <!-- STATUS:START -->
-🔄 最近更新:2026-10-31 14:02:11 · 成功 6/11 个源
+🔄 最近更新:2026-10-31 14:19:09 · 成功 9/20 个源
 
 | 源 | 状态 | 使用地址 |
 | --- | --- | --- |
@@ -34,6 +34,15 @@
 | 饭太硬 | ❌ 失败 | `http://www.饭太硬.net/tv` |
 | 摸鱼儿 | ❌ 失败 | `http://www.y456y.com` |
 | 影仓 | ✅ 成功 | `http://124.71.19.220/c/1` |
+| 高天流云 | ✅ 成功 | `https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json` |
+| OK线路 | ❌ 失败 | `https://gitee.com/okjack/okk/raw/master/op.txt` |
+| 喵影视 | ❌ 失败 | `http://meowtv.top/tv` |
+| 巧技 | ❌ 失败 | `http://pandown.pro/tvbox/tvbox.json` |
+| dxawi0 | ✅ 成功 | `https://dxawi.github.io/0/0.json` |
+| 香雅情 | ✅ 成功 | `https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json` |
+| 宝盒VIP | ❌ 失败 | `https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json` |
+| 道长 | ❌ 失败 | `https://pastebin.com/raw/5NHaxyGR` |
+| 游魂多仓 | ❌ 失败 | `https://www.iyouhun.com/tv/dc` |
 <!-- STATUS:END -->
 
 ## 三、项目结构

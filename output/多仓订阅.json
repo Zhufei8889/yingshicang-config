@@ -23,6 +23,18 @@
     {
       "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/yingcang.json",
       "name": "影仓"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/gaotianliuyun.json",
+      "name": "高天流云"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/dxawi0.json",
+      "name": "dxawi0"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/xiangyaqing.json",
+      "name": "香雅情"
     }
   ]
 }

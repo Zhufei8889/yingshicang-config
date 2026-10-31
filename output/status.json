@@ -1,9 +1,9 @@
 {
   "repo": "Zhufei8889/yingshicang-config",
-  "generated_at": "2026-10-31 14:02:11",
-  "total": 11,
-  "success": 6,
-  "failed": 5,
+  "generated_at": "2026-10-31 14:19:09",
+  "total": 20,
+  "success": 9,
+  "failed": 11,
   "sources": [
     {
       "id": "feimao",
@@ -12,7 +12,7 @@
       "url": "http://肥猫.net/tv",
       "used_url": "http://肥猫.net/tv",
       "error": "",
-      "updated_at": "2026-10-31 14:01:11"
+      "updated_at": "2026-10-31 14:17:35"
     },
     {
       "id": "wangerxiao",
@@ -21,7 +21,7 @@
       "url": "https://d.kstore.dev/download/9280/wex.json",
       "used_url": "https://d.kstore.dev/download/9280/wex.json",
       "error": "",
-      "updated_at": "2026-10-31 14:01:11"
+      "updated_at": "2026-10-31 14:17:35"
     },
     {
       "id": "laoliubei",
@@ -30,7 +30,7 @@
       "url": "https://raw.liucn.cc/box/m.json",
       "used_url": "https://raw.liucn.cc/box/m.json",
       "error": "",
-      "updated_at": "2026-10-31 14:01:12"
+      "updated_at": "2026-10-31 14:17:36"
     },
     {
       "id": "xiaoma",
@@ -57,7 +57,7 @@
       "url": "http://xhztv.top/xhz",
       "used_url": "http://xhztv.top/xhz",
       "error": "",
-      "updated_at": "2026-10-31 14:01:14"
+      "updated_at": "2026-10-31 14:17:37"
     },
     {
       "id": "shiguang",
@@ -75,7 +75,7 @@
       "url": "http://ztha.top/TVBox/GYCK.json",
       "used_url": "http://ztha.top/TVBox/GYCK.json",
       "error": "",
-      "updated_at": "2026-10-31 14:01:16"
+      "updated_at": "2026-10-31 14:17:39"
     },
     {
       "id": "fantaiying",
@@ -83,7 +83,7 @@
       "status": "failed",
       "url": "http://www.饭太硬.net/tv",
       "used_url": "",
-      "error": "JSON 解析失败",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
       "updated_at": null
     },
     {
@@ -102,7 +102,88 @@
       "url": "http://124.71.19.220/c/1",
       "used_url": "http://124.71.19.220/c/1",
       "error": "",
-      "updated_at": "2026-10-31 14:02:11"
+      "updated_at": "2026-10-31 14:18:39"
+    },
+    {
+      "id": "gaotianliuyun",
+      "name": "高天流云",
+      "status": "success",
+      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "used_url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "error": "",
+      "updated_at": "2026-10-31 14:18:39"
+    },
+    {
+      "id": "okjack",
+      "name": "OK线路",
+      "status": "failed",
+      "url": "https://gitee.com/okjack/okk/raw/master/op.txt",
+      "used_url": "",
+      "error": "HTTP Error 404: Not Found",
+      "updated_at": null
+    },
+    {
+      "id": "meowtv",
+      "name": "喵影视",
+      "status": "failed",
+      "url": "http://meowtv.top/tv",
+      "used_url": "",
+      "error": "<urlopen error [Errno -2] Name or service not known>",
+      "updated_at": null
+    },
+    {
+      "id": "qiaojia",
+      "name": "巧技",
+      "status": "failed",
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "used_url": "",
+      "error": "<urlopen error timed out>",
+      "updated_at": null
+    },
+    {
+      "id": "dxawi0",
+      "name": "dxawi0",
+      "status": "success",
+      "url": "https://xhdwc.tk/0",
+      "used_url": "https://dxawi.github.io/0/0.json",
+      "error": "",
+      "updated_at": "2026-10-31 14:19:03"
+    },
+    {
+      "id": "xiangyaqing",
+      "name": "香雅情",
+      "status": "success",
+      "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "used_url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "error": "",
+      "updated_at": "2026-10-31 14:19:03"
+    },
+    {
+      "id": "baohe",
+      "name": "宝盒VIP",
+      "status": "failed",
+      "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+      "used_url": "",
+      "error": "JSON 解析失败",
+      "updated_at": null
+    },
+    {
+      "id": "daozhang",
+      "name": "道长",
+      "status": "failed",
+      "url": "https://pastebin.com/raw/5NHaxyGR",
+      "used_url": "",
+      "error": "HTTP Error 404: Not Found",
+      "updated_at": null
+    },
+    {
+      "id": "youhun",
+      "name": "游魂多仓",
+      "status": "failed",
+      "url": "https://www.iyouhun.com/tv/dc",
+      "used_url": "",
+      "error": "JSON 解析失败",
+      "updated_at": null
     }
   ]
 }
