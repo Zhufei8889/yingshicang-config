@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/feimao.json",
+      "name": "肥猫"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/wangerxiao.json",
+      "name": "王二小"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/laoliubei.json",
+      "name": "老刘备"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/xiaohezi.json",
+      "name": "小盒子单仓"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/tinghao.json",
+      "name": "挺好分享多仓"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/yingcang.json",
+      "name": "影仓"
+    }
+  ]
+}

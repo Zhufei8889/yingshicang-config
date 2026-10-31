@@ -1,0 +1,108 @@
+{
+  "repo": "Zhufei8889/yingshicang-config",
+  "generated_at": "2026-10-31 14:02:11",
+  "total": 11,
+  "success": 6,
+  "failed": 5,
+  "sources": [
+    {
+      "id": "feimao",
+      "name": "肥猫",
+      "status": "success",
+      "url": "http://肥猫.net/tv",
+      "used_url": "http://肥猫.net/tv",
+      "error": "",
+      "updated_at": "2026-10-31 14:01:11"
+    },
+    {
+      "id": "wangerxiao",
+      "name": "王二小",
+      "status": "success",
+      "url": "https://d.kstore.dev/download/9280/wex.json",
+      "used_url": "https://d.kstore.dev/download/9280/wex.json",
+      "error": "",
+      "updated_at": "2026-10-31 14:01:11"
+    },
+    {
+      "id": "laoliubei",
+      "name": "老刘备",
+      "status": "success",
+      "url": "https://raw.liucn.cc/box/m.json",
+      "used_url": "https://raw.liucn.cc/box/m.json",
+      "error": "",
+      "updated_at": "2026-10-31 14:01:12"
+    },
+    {
+      "id": "xiaoma",
+      "name": "小马",
+      "status": "failed",
+      "url": "https://szyyds.cn/tv/x.json",
+      "used_url": "",
+      "error": "JSON 解析失败",
+      "updated_at": null
+    },
+    {
+      "id": "4k",
+      "name": "4K小盒子",
+      "status": "failed",
+      "url": "http://xhztv.top/4k.json",
+      "used_url": "",
+      "error": "JSON 解析失败",
+      "updated_at": null
+    },
+    {
+      "id": "xiaohezi",
+      "name": "小盒子单仓",
+      "status": "success",
+      "url": "http://xhztv.top/xhz",
+      "used_url": "http://xhztv.top/xhz",
+      "error": "",
+      "updated_at": "2026-10-31 14:01:14"
+    },
+    {
+      "id": "shiguang",
+      "name": "拾光多仓",
+      "status": "failed",
+      "url": "http://xmbjm.fh4u.org/dc.txt",
+      "used_url": "",
+      "error": "JSON 解析失败",
+      "updated_at": null
+    },
+    {
+      "id": "tinghao",
+      "name": "挺好分享多仓",
+      "status": "success",
+      "url": "http://ztha.top/TVBox/GYCK.json",
+      "used_url": "http://ztha.top/TVBox/GYCK.json",
+      "error": "",
+      "updated_at": "2026-10-31 14:01:16"
+    },
+    {
+      "id": "fantaiying",
+      "name": "饭太硬",
+      "status": "failed",
+      "url": "http://www.饭太硬.net/tv",
+      "used_url": "",
+      "error": "JSON 解析失败",
+      "updated_at": null
+    },
+    {
+      "id": "moyuer",
+      "name": "摸鱼儿",
+      "status": "failed",
+      "url": "http://www.y456y.com",
+      "used_url": "",
+      "error": "JSON 解析失败",
+      "updated_at": null
+    },
+    {
+      "id": "yingcang",
+      "name": "影仓",
+      "status": "success",
+      "url": "http://124.71.19.220/c/1",
+      "used_url": "http://124.71.19.220/c/1",
+      "error": "",
+      "updated_at": "2026-10-31 14:02:11"
+    }
+  ]
+}

@@ -19,7 +19,21 @@
 ## 二、源可用性状态
 
 <!-- STATUS:START -->
-🔄 最近更新:尚未运行(推送仓库后由 GitHub Actions 自动生成)
+🔄 最近更新:2026-10-31 14:02:11 · 成功 6/11 个源
+
+| 源 | 状态 | 使用地址 |
+| --- | --- | --- |
+| 肥猫 | ✅ 成功 | `http://肥猫.net/tv` |
+| 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
+| 老刘备 | ✅ 成功 | `https://raw.liucn.cc/box/m.json` |
+| 小马 | ❌ 失败 | `https://szyyds.cn/tv/x.json` |
+| 4K小盒子 | ❌ 失败 | `http://xhztv.top/4k.json` |
+| 小盒子单仓 | ✅ 成功 | `http://xhztv.top/xhz` |
+| 拾光多仓 | ❌ 失败 | `http://xmbjm.fh4u.org/dc.txt` |
+| 挺好分享多仓 | ✅ 成功 | `http://ztha.top/TVBox/GYCK.json` |
+| 饭太硬 | ❌ 失败 | `http://www.饭太硬.net/tv` |
+| 摸鱼儿 | ❌ 失败 | `http://www.y456y.com` |
+| 影仓 | ✅ 成功 | `http://124.71.19.220/c/1` |
 <!-- STATUS:END -->
 
 ## 三、项目结构
