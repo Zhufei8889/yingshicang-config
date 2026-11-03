@@ -19,11 +19,11 @@
 ## 二、源可用性状态
 
 <!-- STATUS:START -->
-🔄 最近更新:2026-11-02 14:58:07 · 成功 9/20 个源
+🔄 最近更新:2026-11-03 02:47:57 · 成功 8/20 个源
 
 | 源 | 状态 | 使用地址 |
 | --- | --- | --- |
-| 肥猫 | ✅ 成功 | `http://肥猫.net/tv` |
+| 肥猫 | ❌ 失败 | `http://肥猫.net/tv` |
 | 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
 | 老刘备 | ✅ 成功 | `https://raw.liucn.cc/box/m.json` |
 | 小马 | ❌ 失败 | `https://szyyds.cn/tv/x.json` |

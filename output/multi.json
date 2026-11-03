@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/feimao.json",
-      "name": "肥猫"
-    },
-    {
       "url": "https://raw.githubusercontent.com/Zhufei8889/yingshicang-config/main/output/wangerxiao.json",
       "name": "王二小"
     },
