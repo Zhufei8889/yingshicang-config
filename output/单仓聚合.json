@@ -7503,95 +7503,71 @@
       "key": "至臻",
       "name": "💖┃至臻┃4K💖",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Bg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": {
-        "site": [
-          "http://118.89.172.248:22776"
-        ]
-      },
+      "ext": "{\"c\":\"PanWebShare\",\"k\":\"至臻\",\"e\":{\"site\":[\"http://118.89.172.248:22776\"]},\"f\":1}",
       "hide": 1
     },
     {
       "key": "木偶",
       "name": "💖┃木偶┃4K💖",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Bg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.muoua.top",
-          "https://666.666291.xyz",
-          "https://333.333291.xyz",
-          "https://www.muou.asia"
-        ]
-      },
+      "ext": "{\"c\":\"PanWebShare\",\"k\":\"木偶\",\"e\":{\"site\":[\"https://www.muoua.top\",\"https://666.666291.xyz\",\"https://333.333291.xyz\",\"https://www.muou.asia\"]},\"f\":1}",
       "hide": 1
     },
     {
       "key": "💖┃多多┃4K💖_多多",
       "name": "💖┃多多┃4K💖",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Bg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      },
+      "ext": "{\"c\":\"PanWebShare\",\"k\":\"多多\",\"e\":{\"site\":[\"https://tv.yydsys.top\",\"https://tv.yydsys.cc\",\"https://tv.214521.xyz\"]},\"f\":1}",
       "hide": 1
     },
     {
       "key": "快映",
       "name": "💖┃快映┃4K💖",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Bg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": {
-        "site": [
-          "http://38.76.197.172:12521"
-        ]
-      },
+      "ext": "{\"c\":\"PanWebShare\",\"k\":\"快映\",\"e\":{\"site\":[\"http://38.76.197.172:12521\"]},\"f\":1}",
       "hide": 1
     },
     {
       "key": "虎斑",
       "name": "💖┃虎斑┃4K💖",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Bg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": {
-        "site": [
-          " http://38.76.197.172:16969"
-        ]
-      },
+      "ext": "{\"c\":\"PanWebShare\",\"k\":\"虎斑\",\"e\":{\"site\":[\" http://38.76.197.172:16969\"]},\"f\":1}",
       "hide": 1
     },
     {
       "key": "双星",
       "name": "💖┃双星┃4K💖",
       "type": 3,
-      "api": "csp_ShuangXing",
+      "api": "csp_Bg",
       "style": {
         "type": "list"
-      }
+      },
+      "ext": "{\"c\":\"ShuangXing\",\"k\":\"双星\",\"e\":\"\",\"f\":1}"
     },
     {
       "key": "JinPai",
@@ -7744,11 +7720,11 @@
       "key": "世界听书",
       "name": "🎵┃世界┃听书",
       "type": 3,
-      "api": "csp_Ad",
+      "api": "csp_Bg",
       "style": {
         "type": "list"
       },
-      "ext": "{\"c\":\"TingShijie\",\"k\":\"世界听书\",\"e\":\"\"}"
+      "ext": "{\"c\":\"TingShijie\",\"k\":\"世界听书\",\"e\":\"\",\"f\":1}"
     },
     {
       "key": "feifan",
@@ -7895,7 +7871,7 @@
       "key": "🧒┆少儿┆教育_少儿教育",
       "name": "🧒┆少儿┆教育",
       "type": 3,
-      "api": "csp_Ad",
+      "api": "csp_Bg",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -7903,13 +7879,13 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "{\"c\":\"Bili\",\"k\":\"少儿教育\",\"e\":{\"json\":\"https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt\"}}"
+      "ext": "{\"c\":\"Bili\",\"k\":\"少儿教育\",\"e\":{\"json\":\"https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt\"},\"f\":1}"
     },
     {
       "key": "📚┆小学┆课堂_小学课堂",
       "name": "📚┆小学┆课堂",
       "type": 3,
-      "api": "csp_Ad",
+      "api": "csp_Bg",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -7917,13 +7893,13 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "{\"c\":\"Bili\",\"k\":\"小学课堂\",\"e\":{\"json\":\"https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt\"}}"
+      "ext": "{\"c\":\"Bili\",\"k\":\"小学课堂\",\"e\":{\"json\":\"https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt\"},\"f\":1}"
     },
     {
       "key": "📐┆初中┆课堂_初中课堂",
       "name": "📐┆初中┆课堂",
       "type": 3,
-      "api": "csp_Ad",
+      "api": "csp_Bg",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -7931,13 +7907,13 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "{\"c\":\"Bili\",\"k\":\"初中课堂\",\"e\":{\"json\":\"https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt\"}}"
+      "ext": "{\"c\":\"Bili\",\"k\":\"初中课堂\",\"e\":{\"json\":\"https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt\"},\"f\":1}"
     },
     {
       "key": "🎓┆高中┆课堂_高中教育",
       "name": "🎓┆高中┆课堂",
       "type": 3,
-      "api": "csp_Ad",
+      "api": "csp_Bg",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -7945,7 +7921,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "{\"c\":\"Bili\",\"k\":\"高中教育\",\"e\":{\"json\":\"https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt\"}}"
+      "ext": "{\"c\":\"Bili\",\"k\":\"高中教育\",\"e\":{\"json\":\"https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt\"},\"f\":1}"
     },
     {
       "key": "MV | KTV[jar]_Iktv_2",
