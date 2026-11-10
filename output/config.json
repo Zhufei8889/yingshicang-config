@@ -7473,8 +7473,8 @@
       "ext": "./js/drpy.js"
     },
     {
-      "key": "🔄️20261027✅【配置中心|点主页切换】_drpy_js_豆瓣",
-      "name": "🔄️20261027✅【配置中心|点主页切换】",
+      "key": "🔄️2026-11-10✅免费版本_drpy_js_豆瓣",
+      "name": "🔄️2026-11-10✅免费版本",
       "type": 3,
       "api": "csp_Douban",
       "ext": "https://gitee.com/jiandan1232/BabyOS/raw/master/test/douban.json",
@@ -7503,7 +7503,7 @@
       "key": "至臻",
       "name": "💖┃至臻┃4K💖",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -7515,7 +7515,7 @@
       "key": "木偶",
       "name": "💖┃木偶┃4K💖",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -7527,7 +7527,7 @@
       "key": "💖┃多多┃4K💖_多多",
       "name": "💖┃多多┃4K💖",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -7539,7 +7539,7 @@
       "key": "快映",
       "name": "💖┃快映┃4K💖",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -7551,7 +7551,7 @@
       "key": "虎斑",
       "name": "💖┃虎斑┃4K💖",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -7563,7 +7563,7 @@
       "key": "双星",
       "name": "💖┃双星┃4K💖",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "style": {
         "type": "list"
       },
@@ -7720,7 +7720,7 @@
       "key": "世界听书",
       "name": "🎵┃世界┃听书",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "style": {
         "type": "list"
       },
@@ -7871,7 +7871,7 @@
       "key": "🧒┆少儿┆教育_少儿教育",
       "name": "🧒┆少儿┆教育",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -7885,7 +7885,7 @@
       "key": "📚┆小学┆课堂_小学课堂",
       "name": "📚┆小学┆课堂",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -7899,7 +7899,7 @@
       "key": "📐┆初中┆课堂_初中课堂",
       "name": "📐┆初中┆课堂",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -7913,7 +7913,7 @@
       "key": "🎓┆高中┆课堂_高中教育",
       "name": "🎓┆高中┆课堂",
       "type": 3,
-      "api": "csp_Bg",
+      "api": "csp_Bh",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -9291,18 +9291,18 @@
     {
       "name": "平台直播",
       "type": 0,
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "url": "http://124.71.19.220/live/1/0?v=1794247117",
       "playerType": 1
     },
     {
       "name": "Guovin",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
+      "url": "http://124.71.19.220/live/1/1?v=1794247117"
     },
     {
       "name": "港澳台",
       "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
+      "url": "http://124.71.19.220/live/1/2?v=1794247117",
       "playerType": 1
     },
     {
