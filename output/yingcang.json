@@ -1,5 +1,5 @@
 {
-  "spider": "http://124.71.19.220/jar/1/spider.jar?g=none&v=40",
+  "spider": "http://124.71.19.220/jar/1/spider.jar?g=none&v=51",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "lives": [
     {
@@ -52,7 +52,7 @@
       "key": "至臻",
       "name": "💖┃至臻┃4K💖",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -64,7 +64,7 @@
       "key": "木偶",
       "name": "💖┃木偶┃4K💖",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -76,7 +76,7 @@
       "key": "多多",
       "name": "💖┃多多┃4K💖",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -88,7 +88,7 @@
       "key": "快映",
       "name": "💖┃快映┃4K💖",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -100,7 +100,7 @@
       "key": "虎斑",
       "name": "💖┃虎斑┃4K💖",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -112,7 +112,7 @@
       "key": "双星",
       "name": "💖┃双星┃4K💖",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "style": {
         "type": "list"
       },
@@ -269,7 +269,7 @@
       "key": "世界听书",
       "name": "🎵┃世界┃听书",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "style": {
         "type": "list"
       },
@@ -420,7 +420,7 @@
       "key": "少儿教育",
       "name": "🧒┆少儿┆教育",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -434,7 +434,7 @@
       "key": "小学课堂",
       "name": "📚┆小学┆课堂",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -448,7 +448,7 @@
       "key": "初中课堂",
       "name": "📐┆初中┆课堂",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -462,7 +462,7 @@
       "key": "高中教育",
       "name": "🎓┆高中┆课堂",
       "type": 3,
-      "api": "csp_Bh",
+      "api": "csp_Bi",
       "style": {
         "type": "rect",
         "ratio": 1.597
