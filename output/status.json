@@ -1,6 +1,6 @@
 {
   "repo": "Zhufei8889/yingshicang-config",
-  "generated_at": "2026-11-10 14:53:10",
+  "generated_at": "2026-11-11 02:46:30",
   "total": 20,
   "success": 8,
   "failed": 12,
@@ -21,7 +21,7 @@
       "url": "https://d.kstore.dev/download/9280/wex.json",
       "used_url": "https://d.kstore.dev/download/9280/wex.json",
       "error": "",
-      "updated_at": "2026-11-10 14:51:35"
+      "updated_at": "2026-11-11 02:45:07"
     },
     {
       "id": "laoliubei",
@@ -30,7 +30,7 @@
       "url": "https://raw.liucn.cc/box/m.json",
       "used_url": "https://raw.liucn.cc/box/m.json",
       "error": "",
-      "updated_at": "2026-11-10 14:51:36"
+      "updated_at": "2026-11-11 02:45:08"
     },
     {
       "id": "xiaoma",
@@ -57,7 +57,7 @@
       "url": "http://xhztv.top/xhz",
       "used_url": "http://xhztv.top/xhz",
       "error": "",
-      "updated_at": "2026-11-10 14:51:38"
+      "updated_at": "2026-11-11 02:45:10"
     },
     {
       "id": "shiguang",
@@ -75,7 +75,7 @@
       "url": "http://ztha.top/TVBox/GYCK.json",
       "used_url": "http://ztha.top/TVBox/GYCK.json",
       "error": "",
-      "updated_at": "2026-11-10 14:51:40"
+      "updated_at": "2026-11-11 02:45:12"
     },
     {
       "id": "fantaiying",
@@ -102,7 +102,7 @@
       "url": "http://124.71.19.220/c/1",
       "used_url": "http://124.71.19.220/c/1",
       "error": "",
-      "updated_at": "2026-11-10 14:52:37"
+      "updated_at": "2026-11-11 02:46:03"
     },
     {
       "id": "gaotianliuyun",
@@ -111,7 +111,7 @@
       "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "used_url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "error": "",
-      "updated_at": "2026-11-10 14:52:37"
+      "updated_at": "2026-11-11 02:46:03"
     },
     {
       "id": "okjack",
@@ -147,7 +147,7 @@
       "url": "https://xhdwc.tk/0",
       "used_url": "https://dxawi.github.io/0/0.json",
       "error": "",
-      "updated_at": "2026-11-10 14:53:02"
+      "updated_at": "2026-11-11 02:46:25"
     },
     {
       "id": "xiangyaqing",
@@ -156,7 +156,7 @@
       "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "used_url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "error": "",
-      "updated_at": "2026-11-10 14:53:02"
+      "updated_at": "2026-11-11 02:46:25"
     },
     {
       "id": "baohe",
